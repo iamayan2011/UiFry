@@ -1,36 +1,83 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# UiFry NextJS
 
-First, run the development server:
+This is a simple landing page built using NextJS. The project has been bootstrapped using create-next-app.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+This project was a part of the assesment component of a company and was done in a limited time. A Figma file was provided and was asked to implement it.
+
+Figma file link: https://www.figma.com/community/file/1145991068621514311/app-landing-page-finance-bank-money
+
+All the sections of the Figma design has been succesfully implemented. The site is fully responsive
+
+![Full Page Screenshot](https://github.com/iamayan2011/DummyLandingPage1/blob/main/screenshots/ss1.png)
+
+
+
+
+The app has following features/operations:
+
+* Single Page Application built using NextJS and Typescript.
+* Tailwind CSS framework was used.
+* Dark Mode Toggle Feature.
+* Implemented from a Figma Design
+* The webpage is fully responsive.
+
+
+
+
+## Tech Stack
+
+**Client:** 
+* NextJS (Typescript)
+* Tailwind CSS
+
+
+
+## Usage
+
+To run locally, follow these steps:
+Open your terminal and then type
+```
+$ git clone https://github.com/iamayan2011/UiFry-Nextjs
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This clones the repo
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+type
+```
+$ npm install
+```
+This installs the required dependencies
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+To run the React project.
+```
+$ npm start
+```
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Contributing
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+If you want to contribute to this project, please follow these steps:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* Fork this repository.
+* Create a new branch (git checkout -b feature/your-feature-name).
+* Make changes and commit them (git commit -m "Add your commit message").
+* Push your changes to your forked repository (git push origin feature/your-feature-name).
+* Open a pull request.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🚀 About Me
+I am a third year undergraduate (Batch 2021-2025) at Indian Institute of Information Technology, Sri City. 
+I'm a passionate full stack developer with focus on MERN Stack.
+Apart from this, I am interested in Graphic Designing and UI/UX Designing. I am open to Internship opportunities with in the domain of Web Development.
+
+Let's connect on LinkedIn.
+
+[Ayan Raza - LinkedIn](https://www.linkedin.com/in/iamayan2011/)
+
+[Ayan Raza - GitHub](https://github.com/iamayan2011)
+
+
+
+
