@@ -75,7 +75,7 @@ const Hero = () => {
                 </div>
 
                 <div className="flex flexCenter flex-col p-4 border-l-2 border-l-black">
-                  <Image src="/star7.svg" alt="star" width={50} height={20}></Image>
+                  <Image src="/star7.svg" alt="star" width={50} height={50}></Image>
 
                 </div>
 
