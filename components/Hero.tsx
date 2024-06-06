@@ -80,7 +80,7 @@ const Hero = () => {
                 </div>
 
                 <div className=" invisible flex flexCenter flex-col p-4 ">
-                  <Image src="/star7.svg" alt="star" width={10} height={20}></Image>
+                  <Image src="/Star7.svg" alt="star" width={10} height={20}></Image>
 
                 </div>
                 
