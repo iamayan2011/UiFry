@@ -9,7 +9,7 @@ Figma file link: https://www.figma.com/community/file/1145991068621514311/app-la
 
 All the sections of the Figma design has been succesfully implemented. The site is fully responsive
 
-![Full Page Screenshot](https://github.com/iamayan2011/DummyLandingPage1/blob/main/screenshots/ss1.png)
+![Full Page Screenshot](https://github.com/iamayan2011/UiFry-Nextjs/blob/main/ss1.png)
 
 
 
@@ -22,6 +22,8 @@ The app has following features/operations:
 * Implemented from a Figma Design
 * The webpage is fully responsive.
 
+Dark Mode is not visible after deploying on vercel. But it's working fine locally.
+Please view this video to get a preview of dark mode, which is working fine locally: https://drive.google.com/drive/folders/14X_jMAwhzuMD5ESTt3CyPfhwYdHkNUkW?usp=sharing
 
 
 
