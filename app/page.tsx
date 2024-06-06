@@ -5,6 +5,7 @@ import Testinomials from "@/components/Testinomials";
 import Faq from "@/components/Faq";
 import Ready from "@/components/Ready";
 import Image from "next/image";
+import dynamic from 'next/dynamic';
 
 export default function Home() {
   return (
