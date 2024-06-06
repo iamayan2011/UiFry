@@ -1,12 +1,13 @@
 'use client'
+import dynamic from 'next/dynamic';
 import React, { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import MainLogo from "./MainLogo";
 import { NAV_LINKS } from "@/constants";
 import Buttons from "./Buttons";
-import ThemeSwitch from "./ThemeSwitch"; 
 import { FiMenu, FiX } from "react-icons/fi";
+const ThemeSwitch = dynamic(() => import('./ThemeSwitch'), { ssr: false });
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
